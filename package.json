@@ -1,0 +1,26 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caps.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idreesalmasri/CAPS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idreesalmasri/CAPS/issues"
+  },
+  "homepage": "https://github.com/idreesalmasri/CAPS#readme",
+  "dependencies": {
+    "@faker-js/faker": "^6.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
