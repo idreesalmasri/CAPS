@@ -6,5 +6,5 @@
 
 |name|Link|
 |----|----|
-|Actions|[Actions]()|
-|PR|[PR]()|
+|Actions|[Actions](https://github.com/idreesalmasri/CAPS/actions)|
+|PR|[PR](https://github.com/idreesalmasri/CAPS/pull/1)|
